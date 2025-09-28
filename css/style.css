@@ -33,14 +33,9 @@ html{
 }
 
 .project img{
-    width: 200px;
-    height: 200px;
-
-    border: 2px solid black;
 }
 
 .project p{
-    border: 2px solid black;
     align: center;
     margin-right: 5vw;
 }
