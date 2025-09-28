@@ -53,7 +53,14 @@ html{
 }
 
 .resumeSection{
-    margin-bottom: 10px;
+}
+
+.resumeSection p{
+    margin: 0;
+}
+
+.resumeSection ul{
+    margin: 0vh 4vw;
 }
 
 hr{
@@ -61,6 +68,7 @@ hr{
     height: 2px;
     border: 0;
     border-top: 1px solid black;
+    margin: 4px;
 
 }
 
