@@ -1,0 +1,67 @@
+html{
+    font-family: "Times New Roman", serif;
+}
+.topbar{
+    background-color:black;
+    color:white;
+    position:fixed;
+    }
+
+.menu-icon{
+    margin: 9px
+}
+
+.content{
+    margin-top: 7vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.content p{
+    margin: 20px 10px;
+}
+
+.project{
+    border: 2px solid black;
+}
+
+.project img{
+    width: 200px;
+    height: 200px;
+
+    border: 2px solid black;
+}
+
+.project p{
+    border: 2px solid black;
+    align: center;
+    margin-right: 5vw;
+}
+
+@media screen and (max-width: 640px) {
+    .project p{
+        margin-left: 1vw;
+        margin-right: 1vw;
+    }
+}
+
+.resumeSection{
+    margin-bottom: 10px;
+}
+
+hr{
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid black;
+
+}
+
+
